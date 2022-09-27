@@ -46,6 +46,8 @@ dependencies:
       url: https://github.com/FlutterStation/general
   lottie: ^1.4.2
   iconify_flutter: ^0.0.4
+  firebase_storage: ^10.3.9
+  image_picker: ^0.8.5+3
 
 dev_dependencies:
   flutter_test:
